@@ -2,7 +2,7 @@
 #define FENCALCULATRICE_H
 
 #include <QMainWindow>
-
+//modification
 namespace Ui {
 class FenCalculatrice;
 }
